@@ -123,6 +123,7 @@ p {
 .testimonial-text {
   font-size: 3rem;
   line-height: 1.5;
+  color: white;
 }
 
 .testimonial-image {
@@ -168,7 +169,7 @@ p {
 /* Footer Section */
 
 
-.social-icon {
+.soc-media{
   margin: 20px 10px;
 }
 
